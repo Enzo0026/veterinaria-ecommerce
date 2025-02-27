@@ -3,7 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import ProtectedRoute from "../../../routes/ProtectedRoutes"
 import Pacientes from "./pacientes/Pacientes"
 import Turnos from "./turnos/Turnos"
-import CrearProducto from "./productos/CrearProducto"
+import CrearProducto from "./productos/Product"
 
 const Admin = ()=> {
     return (
